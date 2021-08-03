@@ -1,2 +1,2 @@
 # -Rain-in-Australia_Decision-Trees_Random-Forest
-Decision Trees and Random Forests - Machine Learning with Python
+Decision Trees - Machine Learning with Python
